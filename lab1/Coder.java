@@ -5,7 +5,6 @@ import java.io.IOException;
 
 public class Coder {
     public static void main(String[] args) {
-
         try {
             File newFile = new File("glava(coded).txt");
             newFile.createNewFile();
